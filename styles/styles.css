@@ -1,3 +1,7 @@
 @import "tailwindcss";
+@theme{
+    --bguber:url('/src/assets/bguber.png');
+    --bg-city:url('/src/assets/bg-city.png');
+            }
 
 
